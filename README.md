@@ -94,7 +94,7 @@ Prerequisites: [.NET 8 SDK](https://dotnet.microsoft.com/download), [Node.js 20+
 and a running PostgreSQL instance.
 
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd assignment-submission-system
 ```
 
@@ -127,8 +127,7 @@ elsewhere.
 
 ## Database setup
 
-The backend uses EF Core migrations as the source of truth for the schema - **the evaluator does
-not need to write any SQL by hand**. From `backend/src/API`, with `.env` filled in:
+The backend uses EF Core migrations as the source of truth for the schema. From `backend/src/API`, with `.env` filled in:
 
 ```bash
 dotnet tool install --global dotnet-ef   # once, if not already installed
@@ -150,8 +149,7 @@ cd backend/src/API
 dotnet run
 ```
 
-Swagger UI opens at `http://localhost:5000/swagger`. Use `POST /api/auth/login` to get a token,
-then click **Authorize** and paste `Bearer <token>` to call protected endpoints.
+Swagger UI opens at `http://localhost:5000/swagger`. 
 
 ## Running the frontend
 
