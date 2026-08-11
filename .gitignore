@@ -1,0 +1,27 @@
+# ===== Backend (.NET) =====
+backend/**/bin/
+backend/**/obj/
+backend/src/API/wwwroot/uploads/*
+!backend/src/API/wwwroot/uploads/.gitkeep
+*.user
+.vs/
+
+# Real secrets - never commit. Only .env.example is committed.
+backend/src/API/.env
+
+# ===== Frontend (Next.js) =====
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+
+# Real secrets - never commit. Only .env.local.example is committed.
+frontend/.env*.local
+
+# ===== Editor / OS =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
