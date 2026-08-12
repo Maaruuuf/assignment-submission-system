@@ -36,7 +36,7 @@ subjects they teach.
 PDF/DOCX/image attachment); update a submission before the deadline; view submission status,
 marks and feedback; see their own class.
 
-Cross-cutting: JWT login with role-based authorization enforced by the API (not just hidden UI),
+Cross-cutting: JWT login with role-based authorization enforced by the API,
 toast notifications, responsive layout, dashboards with charts per role.
 
 ## Tech stack
