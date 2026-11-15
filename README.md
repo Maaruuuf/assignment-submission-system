@@ -1,3 +1,4 @@
+
 # Assignment & Submission Management System
 
 A role-based Assignment & Submission Management System for a school/college. Admins manage users, classes and subjects;
@@ -209,3 +210,6 @@ No real secrets, passwords, or keys are committed anywhere in this repository.
 - Uploaded files are stored on local disk under `wwwroot/uploads`, not in cloud/blob storage.
 - No pagination on list endpoints/pages.
 - No email verification or self-service password reset; all accounts are admin-provisioned.
+
+<img width="1365" height="632" alt="Screenshot 2026-11-15 211329" src="https://github.com/user-attachments/assets/1cba816b-0385-41c0-a000-e54d8e46f058" />
+<img width="1365" height="632" alt="Screenshot 2026-11-15 211329" src="https://github.com/user-attachments/assets/1017178e-8bcb-40ee-a1cf-2b1b58fa92d3" />
