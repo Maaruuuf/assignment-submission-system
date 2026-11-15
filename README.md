@@ -211,5 +211,6 @@ No real secrets, passwords, or keys are committed anywhere in this repository.
 - No pagination on list endpoints/pages.
 - No email verification or self-service password reset; all accounts are admin-provisioned.
 
-<img width="1365" height="632" alt="Screenshot 2026-11-15 211329" src="https://github.com/user-attachments/assets/1cba816b-0385-41c0-a000-e54d8e46f058" />
-<img width="1365" height="632" alt="Screenshot 2026-11-15 211329" src="https://github.com/user-attachments/assets/1017178e-8bcb-40ee-a1cf-2b1b58fa92d3" />
+<img width="1365" height="632" alt="Screenshot 2026-11-15 211329" src="https://github.com/user-attachments/assets/a94c9336-0b96-4ab3-8cc7-0919731f28ac" />
+<img width="1350" height="636" alt="Screenshot 2026-11-15 211226" src="https://github.com/user-attachments/assets/f7d71f2e-47d0-4db6-bf6c-d834f8a72966" />
+
